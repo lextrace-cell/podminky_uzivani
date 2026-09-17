@@ -1,1 +1,1 @@
-# souhlas_s_podminkami
+# podminky_pouzivani
